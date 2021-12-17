@@ -1,0 +1,96 @@
+.login-card {
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+  background-color: #f3f3f3;
+  transition: 0.3s;
+  border-radius: 5px;
+  height: 460px;
+  width: 530px;
+  margin-bottom: 40px;
+  /* padding-left: 15px; */
+  /* padding-right: -15px; */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Login {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 8px;
+  margin-top: 15px;
+}
+
+.formInfo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+.form-group {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  width: 80%;
+}
+
+.forgot-password {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 18px;
+  margin-left: 140px;
+}
+
+.titleInput {
+  margin-bottom: 14px;
+  border: 0.1px solid #b2b2b2;
+  padding: 0.563rem;
+  border-radius: 5px;
+}
+
+.title {
+  margin-bottom: 5px;
+}
+
+.AddressInput {
+  margin-bottom: 14px;
+  border: 0.1px solid #b2b2b2;
+  padding: 0.563rem;
+  border-radius: 5px;
+}
+.Address {
+  margin-bottom: 5px;
+}
+
+.submit {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  margin-bottom: 14px;
+  border: none;
+  background-color: #3f3f3f;
+  color: #ffffff;
+  padding: 0.563rem;
+  border-radius: 5px;
+  width: 80%;
+  font-size: 16px;
+}
+
+.NumberInput {
+  /* display: flex; */
+  flex-basis: 50%;
+  margin-bottom: 14px;
+  border: 0.1px solid #b2b2b2;
+  padding: 0.563rem;
+  border-radius: 5px;
+  width: 30%;
+}
+
+.bed-bath {
+  display: flex;
+  margin-right: 60px;
+}
+
+.property {
+  display: flex;
+  margin-right: 60px;
+}
